@@ -1,0 +1,107 @@
+The final fight between angels and demons to rule the world has begun!
+
+Will you be a simple spectator of this epic battle ? Will you fight along with one side or the other ? Or will the world end in a completely different way ? It's all up to your decision.
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Apocalypse: Angels and demons are fighting for supermacy.
+- God Goat: [Locked] Can summon holy crosses and make any creature peaceful.
+- Satan Goat: [Locked] Can cast demonic beam and kill any creature.
+- Void Goat: [Locked] Can use antimatter to create black holes and worm holes.
+
+[b]KEYBOARD CONTROLS[/b]
+[h1]God Goat[/h1]
+- [b][RightClick]+[LeftClick]:[/b] Hold to open a heaven gate.
+- [b][RightClick]+[R]:[/b] Start a godly ritual.
+[h1]Satan Goat[/h1]
+- [b][RightClick]+[LeftClick]:[/b] Fire a demonic beam.
+- [b][RightClick]+[R]:[/b] Start a satanic ritual.
+[h1]Void Goat[/h1]
+- [b][RightClick]+[LeftClick]:[/b] Shoot antimatter particles.
+- [b][RightClick]+[R]:[/b] Open a Worm Hole.
+- [b][RightClick]+[1]:[/b] Hold 3s to close the closest Blach Hole.
+
+[b]GAMEPAD CONTROLS[/b]
+[h1]God Goat[/h1]
+- [b][LT]+[RT]:[/b] Hold to open a heaven gate.
+- [b][LT]+[Y]:[/b] Start a godly ritual.
+[h1]Satan Goat[/h1]
+- [b][LT]+[RT]:[/b] Fire a demonic beam.
+- [b][LT]+[Y]:[/b] Start a satanic ritual.
+[h1]Void Goat[/h1]
+- [b][LT]+[RT]:[/b] Shoot antimatter particles.
+- [b][LT]+[Y]:[/b] Open a Worm Hole.
+- [b][LT]+[LB]:[/b] Hold 3s to close the closest Blach Hole.
+
+[b]CHARACTERISTICS[/b]
+[h1]Apocalypse[/h1]
+- The same amount of angel goats and demon goats will spawn on the map.
+- Changing map will restart the apocalypse.
+- Any living creature have a maximum number of hit before they die.
+-- Most creatures take between 3 and 5 hits to die.
+-- Angels and Demons take 5 hits to die.
+- Angels will attack demons and any creature that attacked one of them.
+- Demons will attack angels and any living creature.
+- Demons are immune to explosions and fire.
+- Angels attack using holy crosses summoned from a heaven gate.
+- Demons attack using an explosive demonic beam.
+- 4 angels can perform a holy ritual (white circle), 4 demons can perform a demonic ritual (red circle).
+- When a holy ritual is completed:
+-- Dead angels in the ritual circle will be revived.
+-- Dead demons in the ritual circle will be purified and become angels.
+-- Other dead creatures will be revived as a non-violent creature.
+- When a demonic ritual is completed:
+-- Dead angels in the ritual circle will turn into ashes.
+-- Dead demons in the ritual circle will be revived.
+-- Other dead creatures will be corrupted and become demons.
+- If all dead bodies leave a ritual circle, the ritual will be cancelled.
+[h1]God/Satan/Void Goat[/h1]
+- You can hover by holding the jump key.
+- You have a lot of extra jumps.
+- You can recover from ragdoll even in the air.
+[h1]God Goat[/h1]
+- Help the angels to win the apocalypse to unlock.
+- As long as the heaven gate is open, holy crosses will rain on your target.
+- Godly ritual will revive any dead creature in it and make any living creature in it non-violent.
+- Godly ritual will end a few seconds after being started.
+[h1]Satan Goat[/h1]
+- Help the demons to win the apocalypse to unlock.
+- Satanic ritual will kill any creature in it.
+- Satanic ritual will end a few seconds after being started.
+[h1]Void Goat[/h1]
+- Makes sure nobody survives the apocalypse to unlock (kill every single creature).
+- When antimatter particles collide with anything, a Black Hole will open.
+- Black Holes will grow as they absorb nearby objects until they reach their critical size, then dissapear.
+- There can be maximum two Worm Holes per player (oldest will dissapear if a new one is placed).
+- As long as there is two Worm Holes in the world, any item entering one of them will be transported to the other.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Watching the apocalypse battle for a really high spot is really entertaining :)[/spoiler]
+- [spoiler]To help one side to win the fight, you can have a group of angels/demons attacking you, and lead them to a place full of their archenemy >8D[/spoiler]
+- [spoiler]To erase all life from a map, remember you have to visit every single existing location in it (as long as you don't see a loading screen, you are on the same map)[/spoiler]
+- [spoiler]Holy crosses only damage living creatures, so you can safely make them rain on explosive items[/spoiler]
+- [spoiler]Using the satanic ritual is a fast way to kill creatures during the apocalypse ;)[/spoiler]
+- [spoiler]Trapping NPCs in an endless loop between two Worm Holes is really fun to watch XD[/spoiler]
+- [spoiler]You can use Worm Holes to fast travel, or to send your enemies right into a Black Hole :p[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Angels/demons can sometimes spawn stuck inside unreachable part of buildings.
+- Angels/demons can sometimes attack the same target over and over and keep missing it.
+- Angels/demons can sometimes chase an unreachable enemy or an unreachable ritual circle.
+- Angels/demons will lag the game if they cause chaos in too many different parts of the world at once.
+- Blach Holes will cause lag spikes when they reach their maximum capacity.
+- Black Holes will sometimes fail to absorb objects in them.
+- Black Holes will attemt to absorb the player if it's ragdoll (unragdoll to escape).
+- Objects can sometimes blink really fast between two Worm Holes (should fix itself after a few seconds).
+- Objects can sometimes fail to enter a Worm Hole (if the other side is blocked).
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Finally, here we are! That last mod took forever compared to many others... But it was worth spending time in it :p
+This mod was in the request thread since the very beginning, because I added it myself after seeing the existing angel and demon goats: I thought some epic battle between those goats would make a fun mod :)
+The battle is not as epic as I wanted it, but it is still really fun to watch and be part of. I planned to make a 100 VS 100 fight, but even my computer couldn't handle that, so I ended up with a 25 VS 25 XD
+One one side we have the demons, which uses the demon goat horns and the red skin found in the game files (not sure if any other mutator use it). For them, I wanted a really powerful attack, yet something slightly different from what we have seen before. This is how I ended up with the demonic beam: basically a laser with an explosion where it touches. Not that hard to program, and looks really cool, what else to ask for :D
+On the other side we have the angels, whick uses the original angel goat skin. The design of their attack took a lot more time, because there is a lot of different visual and physicsl parts to it. First the heaven gate is using the MMO portal model (as it's the most cloud-like effect I could find) and will follow the angel enemy for a short time. Then the holy cross rain is based on improved porcupine spikes: The basic behavior is the same, but they stick fly and stick with a better angle than the spike they come from.
+Each camp having their basic fighter, I wanted to add something more to this game mode: a group behavior. I had in mind the pentagram circle for demons, which could be used to turn enemies into more demons, so I tried to think of a counterpart for angels and I ended up with this heaven halo. The circles have almost iddentical behavior for each side: They wait for enough summoners (4) to be near the circle, then they perform the ritual on any eligible NPC in the circle. Originally I wanted to make the demons corrupt angels into more demons, but in order to balance the abilities of each side, I had to make the opposite: the angels will trun demons into more angels.
+Then came the rewards for helping each side of this final battle to win! When I added the mod to the list I was thinking about completely different powers, but as many of the powers I had in mind were released in other mods before, I had to find new ones to give them. Giving to each of them the fancy new attack used by their army sounded like a good idea, and I thought about giving them the ability to create ritual circles with the same ability as well, but that sounded a bit too cheap and would also cause problems as it would allow to spawn some demons and angels when the Apocalypse mutator is not active. So I kept the ritual circle skins, but I gave them brand new effects: The circle made by God Goat bring life and peace to the world by reviving any dead creature in it and also making them passive, and the Satan Goat circle bring instantaneous end to any life. Also, I couldn't think of a almighty being not able to move freely in the air, so I gave them a lot of jumps and the usual hover ability.
+Finally, we have the Void Goat... As you certainly noticed, this have almost nothing to do with the rest of this mod at all XD This mutator is mainly there because there was a buch of abilities I always wanted to have packed on the same goat in one mutator X) Anyway, I found a nice way (I hope) to bring some science madness in a mod about angels and demons: what can possibly end the universe after killing every single angel, demon, human and goat? Science of course :D Now about the content, the black hole is pretty much the same you can obtain from the Waste of Space mod, but with extended destruction power (works on vehicles and moving objects too). And the worm hole is my humble attempt at producing portal-like behavior in this game ^^ I really didn't want to make portals that you can't see through when I placed the Portal mod in the abandonned list... But I changed my mind and decided that some people will still be happy with teleporters that looks like plain black portals, so here are the worm holes :)[/quote]
